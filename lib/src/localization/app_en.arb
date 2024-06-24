@@ -1,0 +1,6 @@
+{
+  "appTitle": "flutter_movie_app",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
